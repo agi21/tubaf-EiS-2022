@@ -4,7 +4,7 @@
 Liebe Studenten/-innen,
 
 die Übung für die Gruppe 2 startet voraussichtlich am 28.04.2022 und wird dann in den ungeraden Wochen Donnerstags 7.30 bis 9.00 Uhr im Raum RAM-2119 stattfinden.   
-In der ersten Übung lässt sich vielleicht noch ein zweiter Termin in den geraden Wochen finden, da die Übungsblätter jeweils für 2 Übungen ausgelegt sind. Alternativ könnte die Beendigung der voeherigen Übungsserie natürlich auch selbstständig stattfinden. Aber das werden wir zum ersten Termin besprechen.   
+In der ersten Übung lässt sich vielleicht noch ein zweiter Termin in den geraden Wochen finden, da die Übungsblätter jeweils für 2 Übungen ausgelegt sind. Alternativ könnte die Beendigung der vorherigen Übungsserie natürlich auch selbstständig stattfinden. Aber das werden wir zum ersten Termin besprechen.   
 Hier werden im Laufe des Semesters Beispielcode und weitere Informationen veröffentlicht.
 
 ## Ablauf/Inhalte
