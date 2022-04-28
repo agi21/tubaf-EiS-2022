@@ -11,7 +11,7 @@ Hier werden im Laufe des Semesters Beispielcode und weitere Informationen veröf
 
 |Datum|Thema|Materialien|
 ---|---|---
-25.04. - 06.05.2022|Entwicklungsumgebung, Datentypen, Ein- und Ausgabe, Exception-Handling, arithmetische und logische Ausdrücke **(Aufgabe 0)**|<ul><li>  [Aufgabenblatt_0](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2022_Aufgabe_00) <li> [Doku Formatcodes](https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings)
+25.04. - 06.05.2022|Entwicklungsumgebung, Datentypen, Ein- und Ausgabe, Exception-Handling, arithmetische und logische Ausdrücke **(Aufgabe 0)**|<ul><li>  [Aufgabenblatt_0](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2022_Aufgabe_00) <li> [Doku Formatcodes](https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings) <li> [Aufgabe1_helloWorld](https://github.com/agi21/tubaf-EiS-2022/blob/main/%C3%9Cbung00/HelloWorld/Program.cs) <li> [Aufgabe2_Alien](https://github.com/agi21/tubaf-EiS-2022/blob/main/%C3%9Cbung00/alien/Program.cs)
 <!---
 
 09.05. - 20.05.2022|Kontrollfluss, Arrays **(Aufgabe 1)**|<ul><li>  [Aufgabenblatt_1](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_01)
