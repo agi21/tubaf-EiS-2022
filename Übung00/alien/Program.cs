@@ -18,6 +18,7 @@ class Program
         var description = Console.ReadLine();
 
         //Typinfernez nicht möglich, da keine Initialisierung 
+        uint regNum;
         char category;
         double luminosity;
 
@@ -46,7 +47,7 @@ class Program
         }
 
         // String-Interpolation mit $"... {} ...":
-        Console.WriteLine($"Name: { description }");
+        Console.WriteLine($"\nName: { description }");
         Console.WriteLine($"Registriernummer: { regNum }");
         Console.WriteLine($"Kategorie: { category }");
         // f2 -> 2 Nachkommastellen
