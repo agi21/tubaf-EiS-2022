@@ -29,7 +29,7 @@ class Program
         //setzt Konsole wieder auf ursprüngliche Farbe 
         //auch bei heller Konsole wieder auf schwarz setzen
         Console.BackgroundColor = ConsoleColor.Black;
-        Console.Clear();
+        Console.Clear();  
     }
 
 
