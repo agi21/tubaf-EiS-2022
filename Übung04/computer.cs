@@ -12,7 +12,7 @@ class Computer
     {
         User = "Administrator";   
         IsCrashed = false;
-        _ipAddress = IPTools.LocalHost; //-> 23 
+        _ipAddress = IPTools.LocalHost;
 
     }
 
