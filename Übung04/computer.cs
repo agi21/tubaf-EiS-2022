@@ -6,6 +6,13 @@ class Computer
     public string User{get; private set;}
     public bool IsCrashed {get; private set;}
     private static Random _rand = new Random();
+    private byte[] _ipAddress;
+
+    public string IPAddress
+    {
+        get => IPTools.IPAddressToString(_ipAddress);
+        set => _ipAddress = IPTools.STringToIPAddress(value);
+    }
 
     //Konstuktor
     public Computer()
