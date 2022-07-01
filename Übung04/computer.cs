@@ -66,4 +66,15 @@ class Computer
         IsCrashed = false;
     }
 
+    public void CreateArchive(string label, string content, out Archiv archive)
+    {
+        archive = new Archiv(label, content);   
+        Console.WriteLine("Archiving data ... ");
+    }
+
+    public void Print()
+    {
+        Console.WriteLine($"User: {User}; IP-Adress: {IPAddress}, IsCrashed: {IsCrashed}");
+    }
+
 }
